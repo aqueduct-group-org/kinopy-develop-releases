@@ -1,6 +1,6 @@
 # kinopy-develop-releases
 
-Release binaries for **[Kinopy Develop](https://github.com/aqueduct-group-org/kinopy-develop-client)** — the desktop git client with built-in AI coding agents.
+Release binaries for **Kinopy Develop** — the desktop git client with built-in AI coding agents.
 
 Source code lives in the **private** sibling repo `kinopy-develop-client`. This repo holds only the signed `.app.tar.gz` + minisign signature + `latest.json` manifest that the in-app Tauri updater fetches.
 
